@@ -1,0 +1,6 @@
+requests
+webscraping
+enzyme
+mkv
+nekbot
+nekbot.protocols.irc

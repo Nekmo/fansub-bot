@@ -1,0 +1,10 @@
+Fansub bot
+==========
+Un bot para fansubs, que parchea los vídeos y los publica. Funciona bajo IRC, Jabberes (próximamente) y Telegram.
+
+Requisitos
+----------
+Debe encontrarse instalado:
+
+    * NekBot
+    * Py-Mkv

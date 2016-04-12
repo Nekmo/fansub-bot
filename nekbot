@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+"""Nekbot, a multiprotocol and modulable bot written in Python.
+"""
+import os
+
+if __name__ == '__main__':
+    os.environ.setdefault("NEKBOT_SETTINGS_MODULE", "settings")
+
+    from nekbot.core.management import Management
+
+    Management().execute()
